@@ -13,3 +13,9 @@ client-server 퀴즈 게임을 GUI로 구현하였다.
    정답 시 점수 20점씩 증가
 5. 최종 점수
    모든 질문이 끝나면 최종 점수를 questionArea에 표시하고 입력 및 제출을 비활성
+실행결과:
+![1](https://github.com/user-attachments/assets/d80f8831-8935-4596-a827-e6e2cb9d321f)
+![2](https://github.com/user-attachments/assets/a8542dec-bec6-4d99-b853-b808cd4fb731)
+![3](https://github.com/user-attachments/assets/eee4b995-023a-448e-86d8-65ad299e2d69)
+![4](https://github.com/user-attachments/assets/cc9ad1e0-84fd-4e64-8e63-de4b05d54ace)
+![5](https://github.com/user-attachments/assets/4bb5e710-419a-4b84-a14b-a3be63417db1)
