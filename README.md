@@ -1,7 +1,7 @@
 ## client-server 퀴즈 게임을 GUI로 구현하였다.
 - 주요 기능<br/>
 **1. 게임 시작 및 종료:**<br/>
-####"게임 시작" 버튼을 누르면 첫번째 질문 화면으로 이동<br/>
+   "게임 시작" 버튼을 누르면 첫번째 질문 화면으로 이동<br/>
    "종료" 버튼을 누르면 프로그램 종료<br/>
 **2. 질문 표시:**<br/>
    질문은 questionArea에 표시되며, 질문 데이터는 배열로 관리<br/>
@@ -14,6 +14,7 @@
 **5. 최종 점수:**<br/>
    모든 질문이 끝나면 최종 점수를 questionArea에 표시하고 입력 및 제출을 비활성<br/>
 **- 실행결과:**<br/>
+- 이미지<br/>
 <p align="center">
 <img width="70%" src="https://github.com/user-attachments/assets/d80f8831-8935-4596-a827-e6e2cb9d321f">
 <img width="70%" src="https://github.com/user-attachments/assets/a8542dec-bec6-4d99-b853-b808cd4fb731">
@@ -21,3 +22,7 @@
 <img width="70%" src="https://github.com/user-attachments/assets/cc9ad1e0-84fd-4e64-8e63-de4b05d54ace">
 <img width="70%" src="https://github.com/user-attachments/assets/4bb5e710-419a-4b84-a14b-a3be63417db1">
 </p>
+- 동영상 <br/>
+https://github.com/user-attachments/assets/ff086636-97dd-4f66-be2b-6b2bc08eb384
+
+
