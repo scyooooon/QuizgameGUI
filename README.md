@@ -23,7 +23,5 @@
 <img width="70%" src="https://github.com/user-attachments/assets/4bb5e710-419a-4b84-a14b-a3be63417db1">
 </p>
 - 동영상 <br/>
-![실행영상](https://github.com/user-attachments/assets/307422e1-c325-4cca-b01e-d436a57c3642)
-https://github.com/user-attachments/assets/ff086636-97dd-4f66-be2b-6b2bc08eb384
-
+<img src="https://github.com/user-attachments/assets/307422e1-c325-4cca-b01e-d436a57c3642">
 
