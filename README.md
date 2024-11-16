@@ -5,8 +5,8 @@ client-server 퀴즈 게임을 GUI로 구현하였다.
    "종료" 버튼을 누르면 프로그램 종료
 2. 질문 표시
    질문은 questionArea에 표시되며, 질문 데이터는 배열로 관리
-3. 답변 입력 및 제출
-   사용자가 답변을 입력(answerField) 후 "Submit" 버튼을 클릭해 제출
+3. 답안 입력 및 제출
+   사용자가 답안을 입력(answerField) 후 "Submit" 버튼을 클릭해 제출
    정답 여부는 answers 배열과 비교
 4. 피드백 제공:
    정답이면 "Correct!", 오답이면 "Incorrect." 메시지가 오른쪽 feedbackArea에 추가
