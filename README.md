@@ -24,4 +24,8 @@
 </p>
 - 동영상 <br/>
 <img src="https://github.com/user-attachments/assets/307422e1-c325-4cca-b01e-d436a57c3642">
+<br/>
+- 동영상 링크첨부(재생안될경우)<br/>
+![실행영상](https://github.com/user-attachments/assets/cd7b4d57-de32-495f-9c04-2541c86a45c3)
+
 
